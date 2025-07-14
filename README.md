@@ -21,8 +21,8 @@ This repository provides a ready-to-use Docker Compose configuration for running
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/vuln-lab-docker.git
-   cd vuln-lab-docker
+   https://github.com/hidayat-tanjung/Vulnerable-Lab.git
+   cd Vulnerable-Lab
    ```
 
 2. **Start All Services**
